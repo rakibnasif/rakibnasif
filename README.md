@@ -1,6 +1,8 @@
-Rakibul Islam Asif 
+<h1 align="center">Rakibul Islam Asif</h1>
 
-> *Passionate Developer | Machine Learning & Web Engineering Enthusiast*
+<p align="center">
+  <em>Passionate Developer | Machine Learning & Web Engineering Enthusiast</em>
+</p>
 
 ---
 
