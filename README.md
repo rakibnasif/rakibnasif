@@ -1,4 +1,4 @@
-                              Rakibul Islam Asif 
+Rakibul Islam Asif 
 
 > *Passionate Developer | Machine Learning & Web Engineering Enthusiast*
 
@@ -30,6 +30,3 @@
 
 ---
 
-### 📊 GitHub Stats
-![Rakib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rakibnasif&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakibnasif&layout=compact&theme=tokyonight)
